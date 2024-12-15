@@ -1,4 +1,4 @@
 # hello-world
-Hello Everyone,
+Hello World,
 
-I am new to coding and have very little experience with GitHub. This tutorial is a great opporutnity for me to learn about how the system works and how I can do work here in the future.
+I am interested in learning more about coding and need to become more experienced with GitHub. This tutorial is an opportunity for me to learn how the system works and how I can do work here in the future.
